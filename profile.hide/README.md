@@ -1,6 +1,6 @@
 # EIDOS
 
-## Latest sPublications
+## Latest Publications
 
 
 Barbano, C. A., Tartaglione, E., Berzovini, C., Calandri, M., & Grangetto, M. (2022). A Two-Step Radiologist-Like Approach for Covid-19 Computer-Aided Diagnosis from Chest X-Ray Images. LNCS, 13231, 173–184. doi:10.1007/978-3-031-06427-2_15/FIGURES/5
